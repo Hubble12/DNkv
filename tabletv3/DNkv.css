@@ -1,0 +1,39 @@
+header {
+background-color: #1f5b25;
+margin: 8px;
+
+}
+
+footer {
+    background-color: #1f5b25;
+    width: 768px;
+    position: fixed;
+    bottom: 0%;
+}
+
+
+#contant {
+    background-image: url(hatter01.jpg);
+    width: 768px;
+    height: 1024px;
+    margin: 0 auto;
+    background-size: cover;
+    background-color: white;
+    background-position: center;
+
+}
+
+.kinalat {
+color: white;
+align-content: center;
+margin: 100pt;
+font-size:120%
+}
+
+
+
+.blogszoveg {
+    background-color: blanchedalmond;
+}
+
+
